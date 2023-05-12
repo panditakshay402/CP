@@ -11,7 +11,7 @@ int main() {
        cout<<"YES"<<endl;
        else
        cout<<"NO"<<endl;
-    }
+    }fjfj
     
     
 	// your code goes here
