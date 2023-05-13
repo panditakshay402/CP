@@ -1,2 +1,2 @@
 # Competitive Codding
-here you get CHODECHEF,GFG Codes
+here, you get CHODECHEF,GFG Codes.
