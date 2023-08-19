@@ -6,9 +6,9 @@ int main(){
 
     int a;
 
-    cout<<"gfj4";
+    cout<<"enter number";
     cin>>a;
 
-    cout<<"dds"<<endl<<a;
+    cout<<"aayega 5"<<endl<<a;
     return 0;
 }
