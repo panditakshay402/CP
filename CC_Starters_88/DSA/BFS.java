@@ -1,10 +1,12 @@
 // Java program to implement Best First Search using priority
-// queue
+// queue .
 import java.util.ArrayList;
 import java.util.PriorityQueue;
 
 public class BFS
 {
+
+
 static ArrayList<ArrayList<edge> > adj = new ArrayList<>();
 
 // Function for adding edges to graph
