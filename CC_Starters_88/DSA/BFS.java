@@ -1,4 +1,4 @@
-// Java program to implement Best First Search using priority
+// Java program to implement Best First Search using priority.
 // queue.
 import java.util.ArrayList;
 import java.util.PriorityQueue;
